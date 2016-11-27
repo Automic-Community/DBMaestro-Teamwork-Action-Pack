@@ -1,9 +1,9 @@
-*DBMaestro Teamwork Action Pack*
+*DBmaestro TeamWork Action Pack*
 =============
 
 
 Automate database changes from your Automic Release Automation workflows.
-http://github.com/Automic-Community/DBMaestro-Teamwork-Action-Pack
+http://github.com/Automic-Community/DBmaestro-TeamWork-Action-Pack
 
 <!-- List of attached files -->
 Contents of Solution Package:
