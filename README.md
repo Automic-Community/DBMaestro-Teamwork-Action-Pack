@@ -27,6 +27,27 @@ Documenation and Instructions
 <li>Detect configuration drift visibility and conflicts</li>
 <li>Package, verify, deploy and promote database changes&nbsp;</li>
 </ul>
+<p>Includes following actions:</p>
+<ul>
+<li>Add Objects</li>
+<li>Apply Label</li>
+<li>Apply Label and Set Baseline</li>
+<li>Build Between Labels</li>
+<li>Build By Tasks</li>
+<li>Build Latest Revision</li>
+<li>Build Specific Label</li>
+<li>CheckIn</li>
+<li>CheckOut</li>
+<li>Deploy</li>
+<li>Enter Deployment Mode</li>
+<li>Exit Deployment Mode</li>
+<li>Generate Deployment Script</li>
+<li>Generate Deployment Script Between Labels</li>
+<li>Generate Deployment Script By Label</li>
+<li>Generate Deployment Script By Task</li>
+<li>Set Baseline</li>
+<li>Validate</li>
+</ul>
 
 Copyright and License
 ---
