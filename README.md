@@ -27,6 +27,19 @@ Documenation and Instructions
 <li>Detect configuration drift visibility and conflicts</li>
 <li>Package, verify, deploy and promote database changes&nbsp;</li>
 </ul>
+<p>Pre-Requisites</p>
+<ul>
+<li>Automic Release Automation v12 or above<a href="https://marketplace.automic.com/details/plugin-manager" target="_blank"><br /></a></li>
+</ul>
+<p>Installation</p>
+<ul>
+<li>Download the Action Pack from Automic marketplace</li>
+<li>Extract the archive to get the PCK.CUSTOM_DBMAESTRO_TEAMWORK_1.0.0.zip file, this is the actual action pack.</li>
+<li>Log onto the Automic Web Interface.</li>
+<li>Navigate to Administation tab</li>
+<li>Click Packs then click Install Pack</li>
+<li>Select the action pack that you downloaded. Upon installation, the pack PCK.CUSTOM_DBMAESTRO should appear</li>
+</ul>
 <p>Includes following actions:</p>
 <ul>
 <li>Add Objects</li>
