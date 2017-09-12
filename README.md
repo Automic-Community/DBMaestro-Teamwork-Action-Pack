@@ -11,6 +11,8 @@ Contents of Solution Package:
 						
 								*PCK.CUSTOM_DBMAESTRO_TEAMWORK_1.0.0.zip
 								
+								*CAAutomic-A4_Product-Datasheet_P.pdf
+								
 								*DBMaestro-Logo.png
 								
 						
