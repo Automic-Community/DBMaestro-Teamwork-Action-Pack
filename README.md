@@ -11,7 +11,13 @@ Contents of Solution Package:
 						
 								*PCK.CUSTOM_DBMAESTRO_TEAMWORK_1.0.0.zip
 								
-								*CAAutomic-A4_Product-Datasheet_P.pdf
+								*Automic-and-DBmaestro-integration.pdf
+								
+								*visualpipelinbuilder.jpg
+								
+								*contolrolesandsecurity.jpg
+								
+								*fullhistoryofallchanges.jpg
 								
 								*DBMaestro-Logo.png
 								
@@ -22,47 +28,39 @@ Documenation and Instructions
 ---
 
 <p><img src="https://448bb31d92917ba3390f-4a8f48d20b0d8c78b979208d38d37653.ssl.cf1.rackcdn.com/795/screenshots/DBMaestro-Logo.png" alt="" width="220" height="54" /></p>
-<p>DBmaestro TeamWork is the leading solution for automating database branches and merges, as well as consolidating changes into an integration environment. DBmaestro TeamWork also safely deploys changes to production with a fully automated, bullet-proof deployment process.</p>
-<p>This Action Pack enables you to easily automate database changes directly from your Automic Release Automation workflows. With the DBmaestro Action Pack you can:&nbsp;</p>
+<h1>DBmaestro DevOps Platform Action Pack</h1>
+<p><span>DBmaestro is the leading provider of database DevOps solutions. DBmaestro&rsquo;s Database DevOps Platform includes several modules, helping teams to build, edit and deploy database changes while maintaining the highest level of security and instilling process and governance. With the DBmaestro Action Pack you can: &nbsp;</span></p>
 <ul>
-<li>Eliminate error prone manual scripting for database changes</li>
-<li>Detect configuration drift visibility and conflicts</li>
-<li>Package, verify, deploy and promote database changes&nbsp;</li>
+<li><strong><span>Package, verify, deploy and promote</span></strong><span> database changes</span></li>
+<li><strong><span>Eliminate human error</span></strong><span> with automated validity checks as part of the automated release pipeline</span></li>
+<li><strong><span>Detect and avoid configuration drift</span></strong><span> and conflicts in advance of deployment</span></li>
+<li><strong><span>Prevent accidental overrides</span></strong><span> of changes or critical fixes </span></li>
+<li><strong><span>Maintain a complete audit trail,</span></strong><span> with a full history of all changes made to the database</span></li>
+<li><strong><span>Control roles and access </span></strong><span>to the database, instilling governance that meets company policy and promotes security</span></li>
+<li><strong><span>Gain holistic overview </span></strong><span>of database health, productivity and </span>goals</li>
+<li><strong><span>Continue working with standard SQL coding</span></strong><span>, no need for any intermediate language like XML or an associated translator</span></li>
 </ul>
-<p>Pre-Requisites</p>
-<ul>
-<li>Automic Release Automation v12 or above<a href="https://marketplace.automic.com/details/plugin-manager" target="_blank"><br /></a></li>
+<h1><strong>Visual pipeline builder</strong></h1>
+<p><span>The visual database pipeline builder allows you to package, verify, deploy, and promote database changes, building a full delivery pipeline easily. The tool can recognize any configuration drift that might prevent a successful release, ensure upgrade scripts comply with company policy and prevent rogue code from running.</span></p>
+<p><span>The Release Automation Module revalidates the final state, to make sure the release process ended successfully; all changes are audited. The Release Automation Module supports your source control tool of choice, (Git, SVN and others), as well as DBmaestro&rsquo;s Versioning Module.</span></p>
+<h1><strong>Control roles and security</strong></h1>
+<p><span>Stay on top of security with the built-in Security and Governance Module. Control database activities by defining roles for all team members, down to the object and schema level. Enforce the separation of duties and permissions and prevent unauthorized changes to the database. </span></p>
+<h1><strong>Full history of all changes made (and attempted)</strong></h1>
+<p><span>All changes made in the database (attempted and successful) are documented in full detail. With pre-defined roles and permissions, you have full transparency of all activity and a documented history in place in case fixes or rollbacks are required.</span></p>
+<h1><strong>Measure successes, recognize failures</strong></h1>
+<p><span>DBmaestro&rsquo;s Database DevOps Platform includes the Business Activity Monitor, which provides insights into the release process &ndash; enabling you to measure and identify successes and trends. See how often code is deployed, which deployments are failing, and how long it takes to get an upgrade into production (lead time).</span></p>
+<h1><span>Tools and Pricing</span></h1>
+<p><span>The full DBmaestro Database DevOps platform includes the following:</span></p>
+<ul style="list-style-type: disc;">
+<li><span>Release Automation Module</span></li>
+<li><span>Versioning Module</span></li>
+<li><span>Policy Management, Auditability and Security Module</span></li>
+<li><span>Business Activity Monitor</span></li>
 </ul>
-<p>Installation</p>
-<ul>
-<li>Download the Action Pack from Automic marketplace</li>
-<li>Extract the archive to get the PCK.CUSTOM_DBMAESTRO_TEAMWORK_1.0.0.zip file, this is the actual action pack.</li>
-<li>Log onto the Automic Web Interface.</li>
-<li>Navigate to Administation tab</li>
-<li>Click Packs then click Install Pack</li>
-<li>Select the action pack that you downloaded. Upon installation, the pack PCK.CUSTOM_DBMAESTRO should appear</li>
-</ul>
-<p>Includes following actions:</p>
-<ul>
-<li>Add Objects</li>
-<li>Apply Label</li>
-<li>Apply Label and Set Baseline</li>
-<li>Build Between Labels</li>
-<li>Build By Tasks</li>
-<li>Build Latest Revision</li>
-<li>Build Specific Label</li>
-<li>CheckIn</li>
-<li>CheckOut</li>
-<li>Deploy</li>
-<li>Enter Deployment Mode</li>
-<li>Exit Deployment Mode</li>
-<li>Generate Deployment Script</li>
-<li>Generate Deployment Script Between Labels</li>
-<li>Generate Deployment Script By Label</li>
-<li>Generate Deployment Script By Task</li>
-<li>Set Baseline</li>
-<li>Validate</li>
-</ul>
+<p><span>All are fully compatible with Visual Studio out-of-the-box, and work smoothly with Visual Studio.</span></p>
+<p><span>DBmaestro Database DevOps Platform follows a subscription pricing model. DBmaestro offers several pricing packages based on the organization&rsquo;s specific needs.</span></p>
+<p><span>&nbsp;</span></p>
+<p>&nbsp;</p>
 
 Copyright and License
 ---
