@@ -39,16 +39,16 @@ Documenation and Instructions
 <li><strong><span>Gain holistic overview </span></strong><span>of database health, productivity and </span>goals</li>
 <li><strong><span>Continue working with standard SQL coding</span></strong><span>, no need for any intermediate language like XML or an associated translator</span></li>
 </ul>
-<h3><strong>Visual pipeline builder</strong></h3>
+<p><strong>Visual pipeline builder</strong></p>
 <p><span>The visual database pipeline builder allows you to package, verify, deploy, and promote database changes, building a full delivery pipeline easily. The tool can recognize any configuration drift that might prevent a successful release, ensure upgrade scripts comply with company policy and prevent rogue code from running.</span></p>
 <p><span>The Release Automation Module revalidates the final state, to make sure the release process ended successfully; all changes are audited. The Release Automation Module supports your source control tool of choice, (Git, SVN and others), as well as DBmaestro&rsquo;s Versioning Module.</span></p>
-<h3><strong>Control roles and security</strong></h3>
+<p><strong>Control roles and security</strong></p>
 <p><span>Stay on top of security with the built-in Security and Governance Module. Control database activities by defining roles for all team members, down to the object and schema level. Enforce the separation of duties and permissions and prevent unauthorized changes to the database. </span></p>
-<h3><strong>Full history of all changes made (and attempted)</strong></h3>
+<p><strong>Full history of all changes made (and attempted)</strong></p>
 <p><span>All changes made in the database (attempted and successful) are documented in full detail. With pre-defined roles and permissions, you have full transparency of all activity and a documented history in place in case fixes or rollbacks are required.</span></p>
-<h3><strong>Measure successes, recognize failures</strong></h3>
+<p><strong>Measure successes, recognize failures</strong></p>
 <p><span>DBmaestro&rsquo;s Database DevOps Platform includes the Business Activity Monitor, which provides insights into the release process &ndash; enabling you to measure and identify successes and trends. See how often code is deployed, which deployments are failing, and how long it takes to get an upgrade into production (lead time).</span></p>
-<h3><span>Tools and Pricing</span></h3>
+<p><span>Tools and Pricing</span></p>
 <p><span>The full DBmaestro Database DevOps platform includes the following:</span></p>
 <ul style="list-style-type: disc;">
 <li><span>Release Automation Module</span></li>
@@ -58,11 +58,11 @@ Documenation and Instructions
 </ul>
 <p><span>All are fully compatible with Visual Studio out-of-the-box, and work smoothly with Visual Studio.</span></p>
 <p><span>DBmaestro Database DevOps Platform follows a subscription pricing model. DBmaestro offers several pricing packages based on the organization&rsquo;s specific needs.</span></p>
-<h3 style="-en-paragraph: true; margin-top: 1em; margin-bottom: 1em;"><span>Pre-Requisites</span></h3>
+<p><span>Pre-Requisites</span></p>
 <ul>
 <li>Automic Release Automation v12 or above</li>
 </ul>
-<h3 style="-en-paragraph: true; margin-top: 1em; margin-bottom: 1em;"><span>Installation</span></h3>
+<p><span>Installation</span></p>
 <ul>
 <li>Download the Action Pack from Automic marketplace</li>
 <li>Extract the archive to get the PCK.CUSTOM_DBMAESTRO_TEAMWORK_1.0.0.zip file, this is the actual action pack.</li>
