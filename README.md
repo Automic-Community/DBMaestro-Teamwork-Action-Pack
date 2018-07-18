@@ -28,7 +28,6 @@ Documenation and Instructions
 ---
 
 <p><img src="https://448bb31d92917ba3390f-4a8f48d20b0d8c78b979208d38d37653.ssl.cf1.rackcdn.com/795/screenshots/DBMaestro-Logo.png" alt="" width="220" height="54" /></p>
-<h3>DBmaestro DevOps Platform Action Pack</h3>
 <p><span>DBmaestro is the leading provider of database DevOps solutions. DBmaestro&rsquo;s Database DevOps Platform includes several modules, helping teams to build, edit and deploy database changes while maintaining the highest level of security and instilling process and governance. With the DBmaestro Action Pack you can: &nbsp;</span></p>
 <ul>
 <li><strong><span>Package, verify, deploy and promote</span></strong><span> database changes</span></li>
